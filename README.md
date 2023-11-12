@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**FroellerFelix/FroellerFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Felix, an IT student at HTBLA Leonding with a main interest for backend development. Having delved into the intricate world of IT through internships at client4u IT-Consulting GmbH, I got a taste of the SAP world.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Education:** IT-Student at HTBLA Leonding
+- 💼 **Internships:** Two internships at client4u IT-Consulting GmbH, specializing in ABAP and web development.
+
+### Skills
+
+- **Programming Languages:**
+  - C
+  - C#
+  - Java
+  - JavaScript
+  - TypeScript
+
+- **Web Development:**
+  - Angular
+
+- **Database Technologies:**
+  - SQL
+  - PL/SQL
+
+- **Frameworks:**  
+  - Quarkus
+  - JavaFx
+
+I'm enthusiastic about creating robust backend solutions and exploring the possibilities of modern web technologies. While my focus lies in backend development, I also have experience with Angular, a frontend framework for building dynamic web applications.
